@@ -26,3 +26,5 @@ public class PascalTriangle {
 // complexities
 // time: O(N^2)
 // space: O(N^2)
+// TODO: work on for getting single number in the triangle when row and col is given
+// TODO: work on getting the row when the row number is given
